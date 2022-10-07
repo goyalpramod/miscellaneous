@@ -1,0 +1,5 @@
+XGM boost was used as a model because it provided the best results. 
+For feature engineering i normalized the dataset and the specific features that i 
+Thought would be helpful and used label encoding in the columns in where i thought 
+the data had an order like slightly below or slightly above average. 
+other than that i used one hot encoding for clumns like property type 
